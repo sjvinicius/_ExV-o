@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\bin\Debug\netcoreapp3.1\_Viagens.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\bin\Debug\netcoreapp3.1\_Viagens.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\bin\Debug\netcoreapp3.1\_Viagens.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\bin\Debug\netcoreapp3.1\_Viagens.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\bin\Debug\netcoreapp3.1\_Viagens.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\bin\Debug\netcoreapp3.1\_Viagens.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\obj\Debug\netcoreapp3.1\_Viagens.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\obj\Debug\netcoreapp3.1\_Viagens.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\obj\Debug\netcoreapp3.1\_Viagens.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\obj\Debug\netcoreapp3.1\_Viagens.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\obj\Debug\netcoreapp3.1\_Viagens.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\obj\Debug\netcoreapp3.1\_Viagens.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Viagens\obj\Debug\netcoreapp3.1\_Viagens.genruntimeconfig.cache
